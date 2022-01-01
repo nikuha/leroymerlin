@@ -1,0 +1,2 @@
+scrapy startproject leroymerlin .
+scrapy genspider leroy leroymerlin.ru
